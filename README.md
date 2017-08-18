@@ -23,7 +23,7 @@ apache-commons usage (TraceFile)
 java -jar spring-boot-demo-0.0.1-SNAPSHOT.jar
 
 ## URLs
-localhost:8080/api/scan
+http://localhost:8080/api/scan
 
 http://localhost:8080/swagger-ui.html
 
